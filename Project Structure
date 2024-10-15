@@ -1,0 +1,15 @@
+/quick-commerce
+   ├── /controllers
+   │     ├── productController.js
+   │     └── orderController.js
+   ├── /models
+   │     ├── Product.js
+   │     └── Order.js
+   ├── /routes
+   │     ├── productRoutes.js
+   │     └── orderRoutes.js
+   ├── /config
+   │     └── db.js
+   ├── app.js
+   ├── package.json
+   └── README.md
